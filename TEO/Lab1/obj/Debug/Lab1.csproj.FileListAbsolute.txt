@@ -1,0 +1,74 @@
+D:\ТУСУР\3 курс\ПИ\Laba1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\ТУСУР\3 курс\ПИ\Laba1\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\ТУСУР\3 курс\ПИ\Laba1\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\ТУСУР\3 курс\ПИ\Laba1\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+D:\ТУСУР\3 курс\ПИ\Laba1\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+D:\ТУСУР\3 курс\ПИ\Laba1\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\ТУСУР\3 курс\ПИ\Laba1\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+D:\ТУСУР\3 курс\ПИ\Laba1\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\ТУСУР\3 курс\ПИ\Laba1\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\ТУСУР\3 курс\ПИ\Laba1\Lab1\Lab1\obj\Debug\Lab1.Form2.resources
+G:\ТУСУР\3 курс\ПИ\Laba1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+G:\ТУСУР\3 курс\ПИ\Laba1\Lab1\Lab1\obj\Debug\Lab1.exe
+G:\ТУСУР\3 курс\ПИ\Laba1\Lab1\Lab1\obj\Debug\Lab1.pdb
+G:\ТУСУР\3 курс\ПИ\Laba1\Lab1\Lab1\bin\Debug\Lab1.exe
+G:\ТУСУР\3 курс\ПИ\Laba1\Lab1\Lab1\bin\Debug\Lab1.pdb
+G:\ТУСУР\3 курс\ПИ\Laba1\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+G:\ТУСУР\3 курс\ПИ\Laba1\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+G:\ТУСУР\3 курс\ПИ\Laba1\Lab1\Lab1\obj\Debug\Lab1.Form2.resources
+G:\ТУСУР\3 курс\ПИ\Laba1\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+G:\ТУСУР\3 курс\ПИ\Laba1\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+C:\Users\Алекснадр\Desktop\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Алекснадр\Desktop\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Алекснадр\Desktop\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Алекснадр\Desktop\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Алекснадр\Desktop\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Алекснадр\Desktop\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Алекснадр\Desktop\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\Алекснадр\Desktop\Lab1\Lab1\obj\Debug\Lab1.Form2.resources
+C:\Users\Алекснадр\Desktop\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Алекснадр\Desktop\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+D:\ТУСУР\3 курс\ПИ\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\ТУСУР\3 курс\ПИ\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\ТУСУР\3 курс\ПИ\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\ТУСУР\3 курс\ПИ\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\ТУСУР\3 курс\ПИ\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\ТУСУР\3 курс\ПИ\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+D:\ТУСУР\3 курс\ПИ\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+D:\ТУСУР\3 курс\ПИ\Lab1\Lab1\obj\Debug\Lab1.Form2.resources
+D:\ТУСУР\3 курс\ПИ\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\ТУСУР\3 курс\ПИ\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+D:\ТУСУР\3 курс\ПИ\Lab1_ПИ\Lab1\bin\Debug\Lab1.exe.config
+D:\ТУСУР\3 курс\ПИ\Lab1_ПИ\Lab1\obj\Debug\Lab1.exe
+D:\ТУСУР\3 курс\ПИ\Lab1_ПИ\Lab1\obj\Debug\Lab1.pdb
+D:\ТУСУР\3 курс\ПИ\Lab1_ПИ\Lab1\bin\Debug\Lab1.exe
+D:\ТУСУР\3 курс\ПИ\Lab1_ПИ\Lab1\bin\Debug\Lab1.pdb
+D:\ТУСУР\3 курс\ПИ\Lab1_ПИ\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+D:\ТУСУР\3 курс\ПИ\Lab1_ПИ\Lab1\obj\Debug\Lab1.Form2.resources
+D:\ТУСУР\3 курс\ПИ\Lab1_ПИ\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\ТУСУР\3 курс\ПИ\Lab1_ПИ\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+D:\ТУСУР\3 курс\ПИ\Lab1_ПИ\Lab1\obj\Debug\Lab1.Form1.resources
+G:\ТУСУР\3 курс\ПИ\Lab1_ПИ\Lab1\bin\Debug\Lab1.exe.config
+G:\ТУСУР\3 курс\ПИ\Lab1_ПИ\Lab1\obj\Debug\Lab1.exe
+G:\ТУСУР\3 курс\ПИ\Lab1_ПИ\Lab1\obj\Debug\Lab1.pdb
+C:\Users\dell1\Desktop\Lab1_ПИ\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\dell1\Desktop\Lab1_ПИ\Lab1\obj\Debug\Lab1.exe
+C:\Users\dell1\Desktop\Lab1_ПИ\Lab1\obj\Debug\Lab1.pdb
+C:\Users\dell1\Desktop\Lab1_ПИ\Lab1\bin\Debug\Lab1.exe
+C:\Users\dell1\Desktop\Lab1_ПИ\Lab1\bin\Debug\Lab1.pdb
+C:\Users\dell1\Desktop\Lab1_ПИ\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\dell1\Desktop\Lab1_ПИ\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\dell1\Desktop\Lab1_ПИ\Lab1\obj\Debug\Lab1.Form2.resources
+C:\Users\dell1\Desktop\Lab1_ПИ\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\dell1\Desktop\Lab1_ПИ\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+C:\Users\Егор\Desktop\Lab1_ПИ\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Егор\Desktop\Lab1_ПИ\Lab1\bin\Debug\Lab1.exe
+C:\Users\Егор\Desktop\Lab1_ПИ\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Егор\Desktop\Lab1_ПИ\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\Егор\Desktop\Lab1_ПИ\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\Егор\Desktop\Lab1_ПИ\Lab1\obj\Debug\Lab1.Form2.resources
+C:\Users\Егор\Desktop\Lab1_ПИ\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Егор\Desktop\Lab1_ПИ\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\Lab1_ПИ\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\Lab1_ПИ\Lab1\obj\Debug\Lab1.exe
+C:\Users\Егор\Desktop\Lab1_ПИ\Lab1\obj\Debug\Lab1.pdb

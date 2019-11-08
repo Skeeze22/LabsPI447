@@ -1,0 +1,21 @@
+D:\ТУСУР\3 курс\ПИ\Lab1_ПИ\Lab1\bin\Release\Lab1.exe.config
+D:\ТУСУР\3 курс\ПИ\Lab1_ПИ\Lab1\bin\Release\Lab1.exe
+D:\ТУСУР\3 курс\ПИ\Lab1_ПИ\Lab1\bin\Release\Lab1.pdb
+D:\ТУСУР\3 курс\ПИ\Lab1_ПИ\Lab1\obj\Release\Lab1.csprojResolveAssemblyReference.cache
+D:\ТУСУР\3 курс\ПИ\Lab1_ПИ\Lab1\obj\Release\Lab1.Form1.resources
+D:\ТУСУР\3 курс\ПИ\Lab1_ПИ\Lab1\obj\Release\Lab1.Form2.resources
+D:\ТУСУР\3 курс\ПИ\Lab1_ПИ\Lab1\obj\Release\Lab1.Properties.Resources.resources
+D:\ТУСУР\3 курс\ПИ\Lab1_ПИ\Lab1\obj\Release\Lab1.csproj.GenerateResource.Cache
+D:\ТУСУР\3 курс\ПИ\Lab1_ПИ\Lab1\obj\Release\Lab1.exe
+D:\ТУСУР\3 курс\ПИ\Lab1_ПИ\Lab1\obj\Release\Lab1.pdb
+C:\Users\Егор\Desktop\Lab1_ПИ\Lab1\bin\Release\Lab1.exe.config
+C:\Users\Егор\Desktop\Lab1_ПИ\Lab1\bin\Release\Lab1.exe
+C:\Users\Егор\Desktop\Lab1_ПИ\Lab1\bin\Release\Lab1.pdb
+C:\Users\Егор\Desktop\Lab1_ПИ\Lab1\obj\Release\Lab1.csprojAssemblyReference.cache
+C:\Users\Егор\Desktop\Lab1_ПИ\Lab1\obj\Release\Lab1.Form1.resources
+C:\Users\Егор\Desktop\Lab1_ПИ\Lab1\obj\Release\Lab1.Form2.resources
+C:\Users\Егор\Desktop\Lab1_ПИ\Lab1\obj\Release\Lab1.Properties.Resources.resources
+C:\Users\Егор\Desktop\Lab1_ПИ\Lab1\obj\Release\Lab1.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\Lab1_ПИ\Lab1\obj\Release\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\Lab1_ПИ\Lab1\obj\Release\Lab1.exe
+C:\Users\Егор\Desktop\Lab1_ПИ\Lab1\obj\Release\Lab1.pdb

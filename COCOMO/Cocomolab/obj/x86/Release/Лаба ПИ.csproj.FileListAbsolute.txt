@@ -1,0 +1,9 @@
+C:\Users\Егор\Desktop\Laba2_PI\Лаба ПИ\bin\Release\Лаба ПИ.exe
+C:\Users\Егор\Desktop\Laba2_PI\Лаба ПИ\bin\Release\Лаба ПИ.pdb
+C:\Users\Егор\Desktop\Laba2_PI\Лаба ПИ\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Егор\Desktop\Laba2_PI\Лаба ПИ\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Егор\Desktop\Laba2_PI\Лаба ПИ\obj\x86\Release\Лаба ПИ.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\Laba2_PI\Лаба ПИ\obj\x86\Release\Лаба ПИ.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\Laba2_PI\Лаба ПИ\obj\x86\Release\Лаба ПИ.exe
+C:\Users\Егор\Desktop\Laba2_PI\Лаба ПИ\obj\x86\Release\Лаба ПИ.pdb
+C:\Users\Егор\Desktop\Laba2_PI\Лаба ПИ\obj\x86\Release\Лаба ПИ.csprojAssemblyReference.cache

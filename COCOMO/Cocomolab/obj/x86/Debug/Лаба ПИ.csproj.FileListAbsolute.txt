@@ -1,0 +1,65 @@
+C:\Users\Люба\Desktop\Лаба ПИ\Лаба ПИ\bin\Debug\Лаба ПИ.exe
+C:\Users\Люба\Desktop\Лаба ПИ\Лаба ПИ\bin\Debug\Лаба ПИ.pdb
+C:\Users\Люба\Desktop\Лаба ПИ\Лаба ПИ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Люба\Desktop\Лаба ПИ\Лаба ПИ\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Люба\Desktop\Лаба ПИ\Лаба ПИ\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Люба\Desktop\Лаба ПИ\Лаба ПИ\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Люба\Desktop\Лаба ПИ\Лаба ПИ\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Люба\Desktop\Лаба ПИ\Лаба ПИ\obj\x86\Debug\Лаба ПИ.exe
+C:\Users\Люба\Desktop\Лаба ПИ\Лаба ПИ\obj\x86\Debug\Лаба ПИ.pdb
+C:\Users\Люба\Desktop\3 курс\Миньков (ПИ)\Лаба ПИ\Лаба ПИ\obj\x86\Debug\Лаба ПИ.exe
+C:\Users\Люба\Desktop\3 курс\Миньков (ПИ)\Лаба ПИ\Лаба ПИ\obj\x86\Debug\Лаба ПИ.pdb
+C:\Users\Люба\Desktop\3 курс\Миньков (ПИ)\Лаба ПИ\Лаба ПИ\bin\Debug\Лаба ПИ.exe
+C:\Users\Люба\Desktop\3 курс\Миньков (ПИ)\Лаба ПИ\Лаба ПИ\bin\Debug\Лаба ПИ.pdb
+C:\Users\Люба\Desktop\3 курс\Миньков (ПИ)\Лаба ПИ\Лаба ПИ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Люба\Desktop\3 курс\Миньков (ПИ)\Лаба ПИ\Лаба ПИ\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Люба\Desktop\3 курс\Миньков (ПИ)\Лаба ПИ\Лаба ПИ\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Люба\Desktop\3 курс\Миньков (ПИ)\Лаба ПИ\Лаба ПИ\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Люба\Desktop\3 курс\Миньков (ПИ)\Лаба ПИ\Лаба ПИ\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Люба\Desktop\ТЭО2\Лаба ПИ\obj\x86\Debug\Лаба ПИ.exe
+C:\Users\Люба\Desktop\ТЭО2\Лаба ПИ\obj\x86\Debug\Лаба ПИ.pdb
+C:\Users\Люба\Desktop\ТЭО2\Лаба ПИ\bin\Debug\Лаба ПИ.exe
+C:\Users\Люба\Desktop\ТЭО2\Лаба ПИ\bin\Debug\Лаба ПИ.pdb
+C:\Users\Люба\Desktop\ТЭО2\Лаба ПИ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Люба\Desktop\ТЭО2\Лаба ПИ\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Люба\Desktop\ТЭО2\Лаба ПИ\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Люба\Desktop\ТЭО2\Лаба ПИ\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Люба\Desktop\ТЭО2\Лаба ПИ\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Люба\Desktop\Кокомо\Лаба ПИ\obj\x86\Debug\Лаба ПИ.exe
+C:\Users\Люба\Desktop\Кокомо\Лаба ПИ\obj\x86\Debug\Лаба ПИ.pdb
+C:\Users\Люба\Desktop\Кокомо\Лаба ПИ\bin\Debug\Лаба ПИ.exe
+C:\Users\Люба\Desktop\Кокомо\Лаба ПИ\bin\Debug\Лаба ПИ.pdb
+C:\Users\Люба\Desktop\Кокомо\Лаба ПИ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Люба\Desktop\Кокомо\Лаба ПИ\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Люба\Desktop\Кокомо\Лаба ПИ\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Люба\Desktop\Кокомо\Лаба ПИ\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Люба\Desktop\Кокомо\Лаба ПИ\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Люба\Desktop\Лаба ПИ\obj\x86\Debug\Лаба ПИ.exe
+C:\Users\Люба\Desktop\Лаба ПИ\obj\x86\Debug\Лаба ПИ.pdb
+C:\Users\Люба\Desktop\Лаба ПИ\bin\Debug\Лаба ПИ.exe
+C:\Users\Люба\Desktop\Лаба ПИ\bin\Debug\Лаба ПИ.pdb
+C:\Users\Люба\Desktop\Лаба ПИ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Люба\Desktop\Лаба ПИ\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Люба\Desktop\Лаба ПИ\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Люба\Desktop\Лаба ПИ\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Люба\Desktop\Лаба ПИ\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dell1\Desktop\Laba_PI\Лаба ПИ\obj\x86\Debug\Лаба ПИ.exe
+C:\Users\dell1\Desktop\Laba_PI\Лаба ПИ\obj\x86\Debug\Лаба ПИ.pdb
+C:\Users\Егор\Desktop\Laba_PI\Лаба ПИ\bin\Debug\Лаба ПИ.exe
+C:\Users\Егор\Desktop\Laba_PI\Лаба ПИ\bin\Debug\Лаба ПИ.pdb
+C:\Users\Егор\Desktop\Laba_PI\Лаба ПИ\obj\x86\Debug\Лаба ПИ.csprojAssemblyReference.cache
+C:\Users\Егор\Desktop\Laba_PI\Лаба ПИ\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Егор\Desktop\Laba_PI\Лаба ПИ\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Егор\Desktop\Laba_PI\Лаба ПИ\obj\x86\Debug\Лаба ПИ.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\Laba_PI\Лаба ПИ\obj\x86\Debug\Лаба ПИ.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\Laba_PI\Лаба ПИ\obj\x86\Debug\Лаба ПИ.exe
+C:\Users\Егор\Desktop\Laba_PI\Лаба ПИ\obj\x86\Debug\Лаба ПИ.pdb
+C:\Users\Егор\Desktop\Laba2_PI\Лаба ПИ\bin\Debug\Лаба ПИ.exe
+C:\Users\Егор\Desktop\Laba2_PI\Лаба ПИ\bin\Debug\Лаба ПИ.pdb
+C:\Users\Егор\Desktop\Laba2_PI\Лаба ПИ\obj\x86\Debug\Лаба ПИ.csprojAssemblyReference.cache
+C:\Users\Егор\Desktop\Laba2_PI\Лаба ПИ\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Егор\Desktop\Laba2_PI\Лаба ПИ\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Егор\Desktop\Laba2_PI\Лаба ПИ\obj\x86\Debug\Лаба ПИ.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\Laba2_PI\Лаба ПИ\obj\x86\Debug\Лаба ПИ.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\Laba2_PI\Лаба ПИ\obj\x86\Debug\Лаба ПИ.exe
+C:\Users\Егор\Desktop\Laba2_PI\Лаба ПИ\obj\x86\Debug\Лаба ПИ.pdb
